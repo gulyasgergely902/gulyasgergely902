@@ -1,7 +1,3 @@
-## Hi there! 👋
-
-I'm a 🛠️ software developer from 🇭🇺 Hungary working on the open-source [CodeChecker](https://github.com/Ericsson/codechecker) for Ericsson.
-
 ```
 #!/usr/bin/python3
 
