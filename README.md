@@ -1,31 +1,21 @@
-```
-#!/usr/bin/python3
+# 👋 Hey! I'm Gergely Gulyas
 
+🛠️ Software Engineer based in Hungary | 🚀 Currently working on the open-source CodeChecker for Ericsson.
 
-class AboutMe:
-    """Some facts about me"""
+## 💼 Experience
+**Software Developer**
+Ericsson (2025 - Present)
 
+**Software Developer**  
+OPSWAT (2018–2025)
 
-def __init__(self):
-    self.name = "Gergely Gulyas"
-    self.description = "I'm a software engineer based in Hungary and \
-                        currently working on the open-source CodeChecker for Ericsson"
-    self.role = "Software Engineer"
-    self.languages = ["hu_HU", "en_US"]
-    self.skills = ["C++", "Python", "Docker", "CI/CD", "Git"]
-    self.links = {
-        "GitHub": "https://github.com/gulyasgergely902",
-        "LinkedIn": "https://linkedin.com/in/gergely-gulyas/"
-    }
+## 📫 Contact
 
-    self.jobs = []
-    self.jobs.append(
-        {"place": "OPSWAT", "role": "software engineer / c++"})
-    self.jobs.append(
-        {"place": "Ericsson", "role": "software engineer / python", "current": True})
-        
-```
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://linkedin.com/in/gergely-gulyas)
 
+## 💡 Fun Fact
+
+🛑 Never drinks coffee, only matcha 🍵 
 
 <!--
 **gulyasgergely902/gulyasgergely902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
