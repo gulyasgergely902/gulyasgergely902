@@ -17,7 +17,7 @@ _C++, Python, IT Security_
 
 ## 💡 Fun Fact
 
-🛑 Never drinks coffee, only matcha 🍵 
+🛑 Never drinks coffee, only <span style="color:#74A662">**matcha**</span>. 🍵 
 
 <!--
 **gulyasgergely902/gulyasgergely902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
