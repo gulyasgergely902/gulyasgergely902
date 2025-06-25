@@ -13,11 +13,9 @@ C++, Python, IT Security
 
 ## 💼 Experience
 **Software Developer**
-Python, Frontend, Static Analysis
 Ericsson (2025 - Present)
 
 **Software Developer**
-C++, Python, IT Security
 OPSWAT (2018–2025)
 
 ## 📫 Contact
