@@ -11,13 +11,6 @@ Python, Frontend, Static Analysis
 **Software Developer**<br>
 C++, Python, IT Security
 
-## 💼 Experience
-**Software Developer**
-Ericsson (2025 - Present)
-
-**Software Developer**
-OPSWAT (2018–2025)
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://linkedin.com/in/gergely-gulyas)
