@@ -3,6 +3,15 @@
 🛠️ Software Engineer based in Hungary | 🚀 Currently working on the open-source CodeChecker for Ericsson.
 
 ## 💼 Experience
+#### Ericsson (2025 - Present)
+**Software Developer**<br>
+Python, Frontend, Static Analysis
+
+#### OPSWAT (2018 - 2025)
+**Software Developer**<br>
+C++, Python, IT Security
+
+## 💼 Experience
 **Software Developer**
 Python, Frontend, Static Analysis
 Ericsson (2025 - Present)
