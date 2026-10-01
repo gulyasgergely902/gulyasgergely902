@@ -7,7 +7,7 @@
 
 ## 💼 Experience
 ### Ericsson (2025 - Present)
-**Software Developer**<br>
+**Senior Software Developer**<br>
 `#python` `#frontend` `#static-analysis`
 
 ### OPSWAT (2018 - 2025)
